@@ -1,0 +1,54 @@
+{
+  "count": 1,
+  "results": [
+    {
+      "shop_id": 16249146,
+      "shop_name": "StrayHeadcovers",
+      "user_id": 123990406,
+      "creation_tsz": 1518813552,
+      "title": "Meeseeks golf headcovers & other random stuff I design",
+      "announcement": null,
+      "currency_code": "USD",
+      "is_vacation": false,
+      "vacation_message": "I will be out of town Monday, June 11th through Thursday, June 14th. Orders placed during this time will not ship until Friday, June 15th at the earliest.",
+      "sale_message": null,
+      "digital_sale_message": null,
+      "last_updated_tsz": 1578069519,
+      "listing_active_count": 17,
+      "digital_listing_count": 0,
+      "login_name": "oqevc11x",
+      "accepts_custom_requests": true,
+      "policy_welcome": null,
+      "policy_payment": "SECURE OPTIONS\nEtsy keeps your payment information secure. Sellers don't receive your credit card information.\n- Visa\n- MasterCard\n- American Express\n- Discover\n- PayPal\n- Apple Pay\n- SOFORT Bank Transfer\n- iDEAL\n- Etsy Gift Card",
+      "policy_shipping": "PROCESSING TIME\nThe time I need to prepare an order for shipping varies. For details, see individual items.\n\nCUSTOMS AND DUTIES FEES\nBuyers are responsible for any customs or duties fees that may apply. Sellers aren't responsible for delays due to customs",
+      "policy_refunds": "I GLADLY ACCEPT RETURNS AND EXCHANGES\nJust contact me within: 14 days of delivery\nShip returns back to me within: 30 days of delivery\n\nI DON'T ACCEPT CANCELLATIONS\nBut please contact me if you have any problems with your order.\n\nTHE FOLLOWING ITEMS CAN'T BE RETURNED\nBecause of the nature of these items, unless they arrive damaged or defective, I can't accept returns for:\n- Custom or personalized orders\n- Perishable products (like food or flowers)\n- Digital downloads\n- Intimate items (for health\/hygiene reasons)\n\nCONDITIONS OF RETURN\nBuyers are responsible for return shipping costs.\nIf the item is not returned in its original condition, the buyer is responsible for any loss in value.",
+      "policy_additional": "",
+      "policy_seller_info": "",
+      "policy_updated_tsz": null,
+      "policy_has_private_receipt_info": false,
+      "vacation_autoreply": "Hi there. I&#39;m out of town for work Monday, June 11th through Thursday, June 14th. I&#39;ll probably still be checking these messages when possible, but won&#39;t be able to ship any new orders until Friday or Saturday.",
+      "url": "https:\/\/www.etsy.com\/shop\/StrayHeadcovers?utm_source=etsystats&utm_medium=api&utm_campaign=api",
+      "image_url_760x100": null,
+      "num_favorers": 222,
+      "languages": [
+        "en-US"
+      ],
+      "upcoming_local_event_id": null,
+      "icon_url_fullxfull": "https:\/\/i.etsystatic.com\/isla\/5df02f\/34654883\/isla_fullxfull.34654883_d6abgeo4.jpg?version=0",
+      "is_using_structured_policies": true,
+      "has_onboarded_structured_policies": true,
+      "has_unstructured_policies": false,
+      "include_dispute_form_link": false,
+      "is_direct_checkout_onboarded": true,
+      "policy_privacy": "",
+      "is_calculated_eligible": true,
+      "is_opted_in_to_buyer_promise": false,
+      "is_shop_us_based": true
+    }
+  ],
+  "params": {
+    "shop_id": "StrayHeadcovers"
+  },
+  "type": "Shop",
+  "pagination": {}
+}
